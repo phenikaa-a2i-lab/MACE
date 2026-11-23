@@ -1,0 +1,13 @@
+results/
+results_USMLE/
+results_ablation/
+results_test/
+results_audit/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+*.key
+*.pem
+*.zip
+logs/
